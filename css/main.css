@@ -1,0 +1,28 @@
+body {
+    background: url("https://images.unsplash.com/photo-1551219315-e428dd91298e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80") no-repeat black;
+    color: white;
+    font-family: helvetica;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+} 
+
+img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+p {
+    font-size: 22px;
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+input[type="submit"] {
+    background: red;
+    color: white;
+}
